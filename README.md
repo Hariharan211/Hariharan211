@@ -76,4 +76,4 @@ Enhancing skills in Kafka, Spark, Airflow, system design, and business communica
 
 ---
 
-<p align="center" style="color:#555;">Designed for dark mode • Minimal • Professional</p>
+
