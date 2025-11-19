@@ -1,88 +1,61 @@
-## Hi, This is Hariharan👋
-Hey, I'm Hariharan Mohanraja
+<!-- Dark Mode Minimal Profile -->
 
-I’m a passionate developer from India,I enjoy building clean, efficient web apps and exploring data-driven systems that combine Math + Business + Technology.
+<h1 align="center" style="color:#fff; font-weight:600;">Hariharan Mohanraja</h1>
+<p align="center" style="color:#aaa;">Front-End Developer • Aspiring Data Engineer • Problem Solver</p>
 
-🚀 What I Do
-🖥️ Web Development
+---
 
-React.js, JavaScript, TailwindCSS
+## 🌓 About Me
+I build clean, efficient web applications and explore data-driven systems that bring together technology, business thinking, and analytical reasoning.  
+Currently pursuing **B.Tech Information Technology (2021–2025)** at **Sri Krishna College of Technology, Coimbatore**.
 
-Built a Virtual Job Expo project and multiple responsive UIs
+---
 
-Internship experience at Brinary Solutions Inc
+## ⚙️ Skills
 
-📊 Data Analytics / Engineering
+**Languages**  
+Python • JavaScript • SQL  
 
-Python, SQL, Excel
+**Frontend**  
+React.js • Tailwind CSS • HTML • CSS  
 
-Tableau, Data Visualization
+**Data Tools**  
+Excel • Tableau • Pandas • NumPy  
 
-Building real-time streaming projects (Kafka, Spark — in progress)
+**Other Tools**  
+Git • GitHub • WSL • Docker (learning)
 
-📈 Quantitative Thinking
+---
 
-Self-led stock data analysis
+## 📁 Projects
 
-Tested multi-timeframe trading strategy outperforming Nifty50 (2023–2025)
+### Multi-Timeframe Stock Analysis  
+Analyzed Nifty50 stocks (2023–2025) and built a quantitative strategy optimized for profit, drawdown, and risk.
 
-🛠️ Tech Stack
+### Virtual Job Expo Platform  
+React + Tailwind CSS project designed for a seamless and interactive job-fair experience.
 
-Languages:
-Python · Java · SQL
+### Real-Time Data Engineering (in progress)  
+Streaming pipeline using Kafka → Spark → PostgreSQL → dashboard analytics.
 
-Frontend:
-React.js · CSS · HTML · CSS
+---
 
-Data Tools:
-Power BI · Excel · Pandas · NumPy
+## 🏆 Achievements
+- Top 25 – IIT Bombay Mappathon  
+- State-level Karate Gold Medalist  
+- Web Development Intern at Brinary Solutions Inc  
 
-Other Tools:
-Git · GitHub · WSL · Docker (learning)
+---
 
-📚 Projects
-🔹 Multi-Timeframe Stock Analysis
+## 📚 Learning
+Enhancing skills in Kafka, Spark, Airflow, system design, and business communication.
 
-Analyzed Nifty50 stocks (2023–2025), built a strategy using Python & Excel, and optimized KPIs like profitability and max drawdown.
+---
 
-🔹 Virtual Job Expo Platform
+## 🔗 Connect
+**GitHub:** https://github.com/hariharan211  
+**LinkedIn:** https://linkedin.com/in/hariharan211  
 
-React-based job fair web app with clean UI and interactive experience.
+---
 
-
-
-🏆 Achievements
-
-Top 25 in IIT Bombay Mappathon – Traffic Control System
-
-State-level Karate Gold Medalist (Kumite)
-
-
-
-🌱 Currently Learning
-
-Data Engineering: Kafka, Spark, Airflow
-
-Advanced React concepts & performance optimization
-
-Business communication & decision-making (Mu Sigma mindset)
-
-📫 Let's Connect
-
-GitHub: github.com/hariharan211
-
-LinkedIn: linkedin.com/in/hariharan211
-<!--
-**Hariharan211/Hariharan211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="color:#555;">Designed for dark mode • Minimal • Professional</p>
