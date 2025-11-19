@@ -1,32 +1,50 @@
 <!-- Dark Mode Minimal Profile -->
 
 <h1 align="center" style="color:#fff; font-weight:600;">Hariharan Mohanraja</h1>
-<p align="center" style="color:#aaa;">Front-End Developer • Aspiring Data Engineer • Problem Solver</p>
+
 
 ---
 
 ## 🌓 About Me
-I build clean, efficient web applications and explore data-driven systems that bring together technology, business thinking, and analytical reasoning.  
-Currently pursuing **B.Tech Information Technology (2021–2025)** at **Sri Krishna College of Technology, Coimbatore**.
+I am a focused and adaptable professional with a strong passion for Technology, Data, Analytics
+and continuous learning. I thrive in dynamic environments, approaching challenges with clarity,
+discipline, and persistence. With a growth oriented mindset, I am driven to contribute meaningfully
+across diverse technology and create impactful solutions.
 
 ---
 
-## ⚙️ Skills
+## 🛠️ Tech Stack
 
 **Languages**  
 Python • JavaScript • SQL  
 
 **Frontend**  
-React.js • Tailwind CSS • HTML • CSS  
+React.js • CSS • HTML • CSS  
 
 **Data Tools**  
-Excel • Tableau • Pandas • NumPy  
+Excel • Power BI • Pandas • NumPy  
 
 **Other Tools**  
 Git • GitHub • WSL • Docker (learning)
 
 ---
+🚀 What I Do
+🖥️ Web Development
 
+React.js, JavaScript, TailwindCSS
+
+Built a Virtual Job Expo project and multiple responsive UIs
+
+
+📊 Data Analytics / Engineering
+
+Python, SQL, Excel
+
+Power BI, Data Visualization
+
+Building real-time streaming projects (Kafka, Spark — in progress)
+
+---
 ## 📁 Projects
 
 ### Multi-Timeframe Stock Analysis  
@@ -43,7 +61,7 @@ Streaming pipeline using Kafka → Spark → PostgreSQL → dashboard analytics.
 ## 🏆 Achievements
 - Top 25 – IIT Bombay Mappathon  
 - State-level Karate Gold Medalist  
-- Web Development Intern at Brinary Solutions Inc  
+  
 
 ---
 
@@ -53,7 +71,7 @@ Enhancing skills in Kafka, Spark, Airflow, system design, and business communica
 ---
 
 ## 🔗 Connect
-**GitHub:** https://github.com/hariharan211  
+**Gmail:** hariharanmohanraja@gmail.com  
 **LinkedIn:** https://linkedin.com/in/hariharan211  
 
 ---
